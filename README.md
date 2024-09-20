@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kauanwasconcelos/Kauanwasconcelos/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
